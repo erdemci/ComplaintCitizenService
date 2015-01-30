@@ -1,4 +1,7 @@
 {
-    "name": "Compliant Citizen Service",
-    "version": "0.0.1"
+  "name": "ComplaintCitizenService",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.11.1"
+  }
 }
